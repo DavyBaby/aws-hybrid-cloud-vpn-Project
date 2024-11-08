@@ -4,7 +4,7 @@
 This project demonstrates a **Hybrid Cloud Architecture** connecting an **AWS VPC** with an **on-premises network** through **Site-to-Site VPN** and **AWS Direct Connect**. The architecture is designed for secure, private connectivity between AWS resources and an on-premises environment, simulating a real-world hybrid cloud solution.
 
 ## Architecture Diagram
-![AWS Hybrid Cloud Diagram](aws-hybrid-cloud-diagram.png)
+![AWS Hybrid Cloud Diagram](Hybrid Cloud with VPN.drawio.png)
 
 ## Components
 - **AWS VPC (Virtual Private Cloud)**: A dedicated network within AWS configured with both public and private subnets.
